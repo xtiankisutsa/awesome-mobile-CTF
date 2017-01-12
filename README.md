@@ -126,7 +126,6 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 1. [Mobile app pentest cheatsheet] (https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome] (https://github.com/ashishb/android-security-awesome)
 * [iOS security awesome] (https://github.com/ashishb/osx-and-ios-security-awesome)
-* [OSX-security-awesome] (https://github.com/kai5263499/osx-security-awesome)
 * [Mobile security wiki] (https://mobilesecuritywiki.com/)
 * [Nyxbone] (http://www.nyxbone.com/malware/android_tools.html)
 * [Nowhere] (https://n0where.net/best-android-security-resources/)
@@ -139,6 +138,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Awesome-security] (https://github.com/sbilly/awesome-security)
 * [Awesome-wifi-security] (https://github.com/edelahozuah/awesome-wifi-security)
 * [Android vulnerabilities overview] (https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview)
+* [OSX-security-awesome] (https://github.com/kai5263499/osx-security-awesome)
 
 ##Mobile security standards:
 
