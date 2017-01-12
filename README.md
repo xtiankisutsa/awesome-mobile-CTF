@@ -43,9 +43,46 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most
 * [Google-ctf-2016] (https://github.com/ctfs/write-ups-2016/tree/39e9a0e2adca3a3d0d39a6ae24fa51196282aae4/google-ctf-2016/mobile)
 * [Google-ctf-2016: ill intentions 1] (http://security.claudio.pt/solving-google-ctf-2016-android-challenges/)
 * [Google-ctf-2016: ill intentions 2] (https://github.com/d3rezz/Google-Capture-The-Flag-2016)
-* [Cyber-security-challenge-belgium-2016-qualifiers] (https://github.com/ctfs/write-ups-)2016/tree/c35549398f88d3755dc31a8fe995f15ef876ee18/cyber-security-challenge-belgium-2016-qualifiers/Mobile%20Security
+* [Cyber-security-challenge-belgium-2016-qualifiers] (https://github.com/ctfs/write-ups-2016/tree/c35549398f88d3755dc31a8fe995f15ef876ee18/cyber-security-challenge-belgium-2016-qualifiers/Mobile%20Security)
 * [Su-ctf-2016 - android-app-100] (https://github.com/ctfs/write-ups-2016/tree/274307f43140bb4a52e0729ecf1282628fb22f5b/su-ctf-2016/reverse/android-app-100)
 * [Hackcon-ctf-2016 - you-cant-see-me-150] (https://github.com/ctfs/write-ups-2016/tree/274307f43140bb4a52e0729ecf1282628fb22f5b/hackcon-ctf-2016/reversing/you-cant-see-me-150)
 * [RC3 CTF 2016: My Lil Droid] (http://aukezwaan.nl/write-ups/rc3-ctf-2016-my-lil-droid-100-points/)
 
+###2015
 
+ 1. [Rctf-quals-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/rctf-quals-2015/mobile)
+ * [Insomni-hack-ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/insomni-hack-ctf-2015/mobile)
+* [0ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/0ctf-2015/mobile)
+* [Cyber-security-challenge-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/cyber-security-challenge-2015/mobile-application-security)
+* [Trend-micro-ctf-2015: offensive-200] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/trend-micro-ctf-2015/analysis/offensive-200)
+* [codegate-ctf-2015: dodocrackme2] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/codegate-ctf-2015/reversing/dodocrackme2)
+* [Seccon-quals-ctf-2015: reverse-engineering-android-apk-1] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/seccon-quals-ctf-2015/binary/reverse-engineering-android-apk-1)
+* [Seccon-quals-ctf-2015 - reverse-engineering-android-apk-2] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/seccon-quals-ctf-2015/unknown/reverse-engineering-android-apk-2)
+* [Pragyan-ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/pragyan-ctf-2015/android)
+* [Volgactf-quals-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/volgactf-quals-2015/web/malware)
+* [Opentoall-ctf-2015: android-oh-no] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/opentoall-ctf-2015/misc/android-oh-no
+* [32c3-ctf-2015: libdroid-150] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/32c3-ctf-2015/reversing/libdroid-150)
+* [Polictf 2015: crack-me-if-you-can] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/polictf-2015/reversing/crack-me-if-you-can)
+* [Icectf-2015: Husavik] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/icectf-2015/forensics/husavik)
+
+##2014
+
+1. [Qiwi-ctf-2014: not-so-one-time] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
+* [Fdfpico-ctf-2014: droid-app-80] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
+* [Su-ctf-quals-2014 - commercial_application - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application
+* defkthon-ctf 2014 - web-300 - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/defkthon-ctf/web-300
+* secuinside-ctf-prequal-2014 - wooyatalk - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/secuinside-ctf-prequal-2014/wooyatalk
+* qiwi-ctf-2014 - easydroid - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-*  qiwi-*  tinyCTF 2014 -Ooooooh! What does this button do? - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/tinyctf-2014/ooooooh-what-does-this-button-do
+* 31c3-ctf-2014 - Nokia 1337 - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/31c3-ctf-2014/pwn/nokia-1337
+* asis-ctf-finals-2014 - numdroid - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/asis-ctf-finals-2014/numdroid
+* PicoCTF-2014 - Droid App - http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Droid%20App%20-%2080/
+* NDH2k14-wargames - crackme200-ChunkNorris - http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/
+
+##2012
+
+1. Atast CTF 2012 Bin 300 - http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/
+
+##Misc
+
+1. [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 1] (http://blog.w3challs.com/index.php?post/2012/07/02/NDH2k12-wargame-CrackMe-Android)
+* [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2] (http://blog.spiderboy.fr/tag/crackme/)
