@@ -102,6 +102,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [ExploitMe labs by SecurityCompass] (http://securitycompass.github.io/AndroidLabs/setup.html)
 * [InsecureBankv2] (https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Sieve (Vulnerable ‘Password Manager’ app)] (https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
+* [sievePWN] (https://github.com/tanprathan/sievePWN)
 * [ExploitMe Mobile Android Labs] (http://securitycompass.github.io/AndroidLabs/)
 * [Hacme Bank] (http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
 * [Android Labs] (https://github.com/SecurityCompass/AndroidLabs)
@@ -135,7 +136,6 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Nyxbone] (http://www.nyxbone.com/malware/android_tools.html)
 * [Nowhere] (https://n0where.net/best-android-security-resources/)
 * [Secmobi] (https://github.com/secmobi/wiki.secmobi.com)
-* [sievePWN] (https://github.com/tanprathan/sievePWN)
 
 ##Mobile security standards:
 
