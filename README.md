@@ -1,5 +1,5 @@
 # awesome-mobile-CTF
-This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform. 
+This is a curated list of mobile based CTFs, write-ups and vulnerable mobile apps. Most of them are android based due to the popularity of the platform. Inspired by [android-security-awesome] (https://github.com/ashishb/android-security-awesome) and [osx-and-ios-security-awesome] (https://github.com/ashishb/osx-and-ios-security-awesome).
 
 ##Mobile CTF challenges
 
