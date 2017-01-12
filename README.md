@@ -120,11 +120,16 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Owasp: iGoat] (https://github.com/hankbao/owasp-igoat)
 * [Damn Vulnerable iOS App (DVIA)] (http://damnvulnerableiosapp.com/)
 
-##Mobile security resources:
+##Security resources:
 
 1. [Mobile app pentest cheatsheet] (https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome] (https://github.com/ashishb/android-security-awesome)
 * [iOS security awesome] (https://github.com/ashishb/osx-and-ios-security-awesome)
+* [Osx-security-awesome] (https://github.com/kai5263499/osx-security-awesome)
+* [Awesome-web-hacking] (https://github.com/infoslack/awesome-web-hacking)
+* [Awesome-Hacking] (https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome-security] (https://github.com/sbilly/awesome-security)
+* [Awesome-wifi-security] (https://github.com/edelahozuah/awesome-wifi-security)
 * [Android vulnerabilities overview] (https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview)
 * [Mobile security wiki] (https://mobilesecuritywiki.com/)
 * [Nyxbone] (http://www.nyxbone.com/malware/android_tools.html)
