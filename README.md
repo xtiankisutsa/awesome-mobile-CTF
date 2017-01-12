@@ -50,8 +50,8 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most
 
 ###2015
 
- 1. [Rctf-quals-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/rctf-quals-2015/mobile)
- * [Insomni-hack-ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/insomni-hack-ctf-2015/mobile)
+1. [Rctf-quals-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/rctf-quals-2015/mobile)
+* [Insomni-hack-ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/insomni-hack-ctf-2015/mobile)
 * [0ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/0ctf-2015/mobile)
 * [Cyber-security-challenge-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/cyber-security-challenge-2015/mobile-application-security)
 * [Trend-micro-ctf-2015: offensive-200] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/trend-micro-ctf-2015/analysis/offensive-200)
