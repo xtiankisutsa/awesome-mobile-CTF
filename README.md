@@ -69,18 +69,20 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most
 
 1. [Qiwi-ctf-2014: not-so-one-time] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
 * [Fdfpico-ctf-2014: droid-app-80] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
-* [Su-ctf-quals-2014 - commercial_application - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application
-* defkthon-ctf 2014 - web-300 - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/defkthon-ctf/web-300
-* secuinside-ctf-prequal-2014 - wooyatalk - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/secuinside-ctf-prequal-2014/wooyatalk
-* qiwi-ctf-2014 - easydroid - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-*  qiwi-*  tinyCTF 2014 -Ooooooh! What does this button do? - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/tinyctf-2014/ooooooh-what-does-this-button-do
-* 31c3-ctf-2014 - Nokia 1337 - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/31c3-ctf-2014/pwn/nokia-1337
-* asis-ctf-finals-2014 - numdroid - https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/asis-ctf-finals-2014/numdroid
-* PicoCTF-2014 - Droid App - http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Droid%20App%20-%2080/
-* NDH2k14-wargames - crackme200-ChunkNorris - http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/
+* [Su-ctf-quals-2014: commercial_application] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application)
+* [defkthon-ctf 2014: web-300] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/defkthon-ctf/web-300)
+* [secuinside-ctf-prequal-2014: wooyatalk] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/secuinside-ctf-prequal-2014/wooyatalk)
+* {Qiwi-ctf-2014: easydroid] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/easydroid)
+* [Qiwi-ctf-2014: stolen-prototype] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/stolen-prototype)
+* [TinyCTF 2014: Ooooooh! What does this button do?] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/tinyctf-2014/ooooooh-what-does-this-button-do)
+* [31c3-ctf-2014: Nokia 1337] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/31c3-ctf-2014/pwn/nokia-1337)
+* [Asis-ctf-finals-2014: numdroid] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/asis-ctf-finals-2014/numdroid)
+* [PicoCTF-2014: Droid App] (http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Droid%20App%20-%2080/)
+* [NDH2k14-wargames: crackme200-ChunkNorris] (http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/)
 
 ##2012
 
-1. Atast CTF 2012 Bin 300 - http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/
+1. [Atast CTF 2012 Bin 300] (http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
 
 ##Misc
 
