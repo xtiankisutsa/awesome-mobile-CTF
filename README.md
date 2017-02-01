@@ -7,6 +7,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 
 1. [Mobile chalenges collection] (https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [Android crack me challenges] (https://github.com/reoky/android-crackme-challenge)
+* [OWASP crack me's] (https://github.com/OWASP/owasp-mstg/tree/master/OMTG-Files/02_Crackmes)
 * [Android Hacking Event 2016: StrangeCalculator] (https://team-sik.org/wp-content/uploads/sites/14/2016/06/strangecalculator.apk_.zip)
 * [Android Hacking Event 2016: ReverseMe] (https://team-sik.org/wp-content/uploads/sites/14/2016/06/ReverseMe.apk_.zip)
 * [Android Hacking Event 2016: BunchOfNative] (https://team-sik.org/wp-content/uploads/sites/14/2016/06/aBunchOfNative.apk_.zip)
@@ -36,6 +37,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Android_ctf] (https://github.com/artwyman/android_ctf)
 * [Robot CTF Android] (https://github.com/KappaEtaKappa/Robot-CTF-android)
 * [Cl.ctfk] (https://github.com/CTFK/cl.ctfk)
+* [Cryptax] (https://github.com/cryptax/challenges)
 
 ##CTF Writeups
 ###2016
