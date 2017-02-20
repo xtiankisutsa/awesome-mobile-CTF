@@ -141,6 +141,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Awesome-wifi-security] (https://github.com/edelahozuah/awesome-wifi-security)
 * [Android vulnerabilities overview] (https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview)
 * [OSX-security-awesome] (https://github.com/kai5263499/osx-security-awesome)
+* [Infosec_Reference] (https://github.com/rmusser01/Infosec_Reference)
 
 ##Mobile security standards:
 
