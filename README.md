@@ -135,7 +135,8 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 
 ##Infosec resources
 
-* [Awesome-web-hacking] (https://github.com/infoslack/awesome-web-hacking)
+1. [Awesome-web-hacking] (https://github.com/infoslack/awesome-web-hacking)
+* [Awesome-windows-exploitation] (https://github.com/enddo/awesome-windows-exploitation)
 * [Awesome-Hacking] (https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome-security] (https://github.com/sbilly/awesome-security)
 * [Awesome-wifi-security] (https://github.com/edelahozuah/awesome-wifi-security)
