@@ -3,7 +3,7 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 
 Inspired by [android-security-awesome] (https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome] (https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github] (https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
-##Mobile CTF challenges
+## Mobile CTF challenges
 
 * [Mobile chalenges collection] (https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [Android crack me challenges] (https://github.com/reoky/android-crackme-challenge)
@@ -39,8 +39,8 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Cl.ctfk] (https://github.com/CTFK/cl.ctfk)
 * [Cryptax] (https://github.com/cryptax/challenges)
 
-##CTF Writeups
-###2016
+## CTF Writeups
+### 2016
 
 * [LabyREnth] (http://researchcenter.paloaltonetworks.com/2016/09/unit42-labyrenth-capture-the-flag-ctf-mobile-track-solutions/)
 * [0ctf-2016] (https://github.com/ctfs/write-ups-2016/tree/master/0ctf-2016/mobile)
@@ -52,7 +52,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Hackcon-ctf-2016 - you-cant-see-me-150] (https://github.com/ctfs/write-ups-2016/tree/274307f43140bb4a52e0729ecf1282628fb22f5b/hackcon-ctf-2016/reversing/you-cant-see-me-150)
 * [RC3 CTF 2016: My Lil Droid] (http://aukezwaan.nl/write-ups/rc3-ctf-2016-my-lil-droid-100-points/)
 
-###2015
+### 2015
 
 * [Rctf-quals-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/rctf-quals-2015/mobile)
 * [Insomni-hack-ctf-2015] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/insomni-hack-ctf-2015/mobile)
@@ -69,7 +69,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Polictf 2015: crack-me-if-you-can] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/polictf-2015/reversing/crack-me-if-you-can)
 * [Icectf-2015: Husavik] (https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/icectf-2015/forensics/husavik)
 
-##2014
+## 2014
 
 * [Qiwi-ctf-2014: not-so-one-time](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
 * [Fdfpico-ctf-2014: droid-app-80](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
@@ -84,18 +84,18 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [PicoCTF-2014: Droid App] (http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Droid%20App%20-%2080/)
 * [NDH2k14-wargames: crackme200-ChunkNorris] (http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/)
 
-##2012
+## 2012
 
 * [Atast CTF 2012 Bin 300] (http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
 
-##Misc
+## Misc
 
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 1] (http://blog.w3challs.com/index.php?post/2012/07/02/NDH2k12-wargame-CrackMe-Android)
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2] (http://blog.spiderboy.fr/tag/crackme/)
 
-##Vulnerable Mobile apps:
+## Vulnerable Mobile apps:
 
-###Android
+### Android
 
 * [OWASP: OMTG-Hacking-Playground] (https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)] (http://payatu.com/damn-insecure-and-vulnerable-app/)
@@ -117,13 +117,13 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Vuln app] (https://github.com/Lance0312/VulnApp)
 * [Damn Vulnerable FirefoxOS Application] (https://github.com/arroway/dvfa)
 
-###iOS
+### iOS
 
 * [ExploitMe Mobile iPhone Labs] (http://securitycompass.github.io/iPhoneLabs/)
 * [Owasp: iGoat] (https://github.com/hankbao/owasp-igoat)
 * [Damn Vulnerable iOS App (DVIA)] (http://damnvulnerableiosapp.com/)
 
-##Mobile security resources
+## Mobile security resources
 
 * [Mobile app pentest cheatsheet] (https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome] (https://github.com/ashishb/android-security-awesome)
@@ -133,7 +133,7 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Nowhere] (https://n0where.net/best-android-security-resources/)
 * [Secmobi] (https://github.com/secmobi/wiki.secmobi.com)
 
-##Infosec resources
+## Infosec resources
 
 * [Awesome-web-hacking] (https://github.com/infoslack/awesome-web-hacking)
 * [Awesome-windows-exploitation] (https://github.com/enddo/awesome-windows-exploitation)
@@ -146,14 +146,14 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [Infosec_Reference] (https://github.com/rmusser01/Infosec_Reference)
 * [PayloadsAllTheThings] (https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-##Mobile security standards:
+## Mobile security standards:
 
 * [OWASP Mobile Security Project] (https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 * [OWASP Top 10 - 2016] (https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [OWASP Mobile Application Security Verification Standard (MASVS)] (https://github.com/OWASP/owasp-masvs)
 * [OWASP Mobile Security Testing Guide (MSTG)] (https://github.com/OWASP/owasp-mstg)
 
-#Credits
+# Credits
 
 * http://carnal0wnage.attackresearch.com/2013/08/want-to-break-some-android-apps.html
 * https://www.owasp.org/index.php
