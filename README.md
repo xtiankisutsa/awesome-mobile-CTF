@@ -71,9 +71,9 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 
 ##2014
 
-1. [Qiwi-ctf-2014: not-so-one-time] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
-* [Fdfpico-ctf-2014: droid-app-80] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
-* [Su-ctf-quals-2014: commercial_application] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application)
+1. [Qiwi-ctf-2014: not-so-one-time](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
+* [Fdfpico-ctf-2014: droid-app-80](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
+* [Su-ctf-quals-2014: commercial_application](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application)
 * [defkthon-ctf 2014: web-300] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/defkthon-ctf/web-300)
 * [secuinside-ctf-prequal-2014: wooyatalk] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/secuinside-ctf-prequal-2014/wooyatalk)
 * [Qiwi-ctf-2014: easydroid] (https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/easydroid)
