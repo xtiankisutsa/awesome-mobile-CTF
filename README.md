@@ -145,6 +145,9 @@ Inspired by [android-security-awesome] (https://github.com/ashishb/android-secur
 * [OSX-security-awesome] (https://github.com/kai5263499/osx-security-awesome)
 * [Infosec_Reference] (https://github.com/rmusser01/Infosec_Reference)
 * [PayloadsAllTheThings] (https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [Awesome-malware-analysis] (https://github.com/rshipp/awesome-malware-analysis)
+* [Linux-reverse-engineering-101] (https://github.com/michalmalik/linux-re-101)
+
 
 ## Mobile security standards:
 
