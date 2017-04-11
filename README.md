@@ -135,6 +135,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## Infosec resources
 
+* [OSX-iOS-reverse-engineering](https://github.com/michalmalik/osx-re-101)
 * [Awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 * [Awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation)
 * [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check)
