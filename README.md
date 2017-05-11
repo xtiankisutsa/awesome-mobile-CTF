@@ -127,7 +127,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 * [Mobile app pentest cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome](https://github.com/ashishb/android-security-awesome)
-* [awesome-linux-android-hacking](https://github.com/pfalcon/awesome-linux-android-hacking)
+* [Awesome-linux-android-hacking](https://github.com/pfalcon/awesome-linux-android-hacking)
 * [iOS security awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
 * [Mobile security wiki](https://mobilesecuritywiki.com/)
 * [iPhone wiki](https://www.theiphonewiki.com/wiki/Main_Page)
