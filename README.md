@@ -55,6 +55,9 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Su-ctf-2016 - android-app-100](https://github.com/ctfs/write-ups-2016/tree/274307f43140bb4a52e0729ecf1282628fb22f5b/su-ctf-2016/reverse/android-app-100)
 * [Hackcon-ctf-2016 - you-cant-see-me-150](https://github.com/ctfs/write-ups-2016/tree/274307f43140bb4a52e0729ecf1282628fb22f5b/hackcon-ctf-2016/reversing/you-cant-see-me-150)
 * [RC3 CTF 2016: My Lil Droid](http://aukezwaan.nl/write-ups/rc3-ctf-2016-my-lil-droid-100-points/)
+* [Cyber Security Challenge 2016: Dexter](https://github.com/ctfs/write-ups-2016/tree/39e9a0e2adca3a3d0d39a6ae24fa51196282aae4/cyber-security-challenge-belgium-2016-qualifiers/Mobile%20Security/Dexter)
+* [Cyber Security Challenge 2016: Phishing is not a crime](https://github.com/ctfs/write-ups-2016/tree/39e9a0e2adca3a3d0d39a6ae24fa51196282aae4/cyber-security-challenge-belgium-2016-qualifiers/Mobile%20Security/Phishing-is-not-a-crime)
+* [google-ctf-2016 : little-bobby-application-250](https://github.com/ctfs/write-ups-2016/tree/39e9a0e2adca3a3d0d39a6ae24fa51196282aae4/google-ctf-2016/mobile/little-bobby-application-250)
 
 ### 2015
 * [Rctf-quals-2015](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/rctf-quals-2015/mobile)
@@ -85,6 +88,10 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Asis-ctf-finals-2014: numdroid](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/asis-ctf-finals-2014/numdroid)
 * [PicoCTF-2014: Droid App](http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Droid%20App%20-%2080/)
 * [NDH2k14-wargames: crackme200-ChunkNorris](http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/)
+
+## 2013
+* [Hack.lu CTF 2013: Robot Plans](https://github.com/ctfs/write-ups-2013/tree/816de23a940856c10987b5047823de48a192c270/hack-lu-ctf-2013/internals/Robot-Plans)
+* [CSAW Quals CTF 2015: Herpderper](https://github.com/ctfs/write-ups-2013/tree/816de23a940856c10987b5047823de48a192c270/csaw-quals-2013/web/herpderper-300)
 
 ## 2012
 * [Atast CTF 2012 Bin 300](http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
