@@ -4,7 +4,6 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Mobile CTF challenges
-
 * [BSides San Francisco CTF 2017 : pinlock-150](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/pinlock-150)
 * [BSides San Francisco CTF 2017 : flag-receiver-200](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/flag-receiver-200)
 * [Insomni'hack Teaser 2017 : mindreader-250](https://github.com/ctfs/write-ups-2017/tree/6a3df5bcece6f952cb60db4a3ae2ce97a189b62d/insomnihack-teaser-2017/mobile/mindreader-250)
@@ -93,7 +92,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2](http://blog.spiderboy.fr/tag/crackme/)
 
 ## Vulnerable Mobile apps:
-
 ### Android
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
@@ -116,13 +114,11 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Damn Vulnerable FirefoxOS Application](https://github.com/arroway/dvfa)
 
 ### iOS
-
 * [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
 * [Owasp: iGoat](https://github.com/hankbao/owasp-igoat)
 * [Damn Vulnerable iOS App (DVIA)](http://damnvulnerableiosapp.com/)
 
 ## Mobile security resources
-
 * [Mobile app pentest cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome](https://github.com/ashishb/android-security-awesome)
 * [Awesome-linux-android-hacking](https://github.com/pfalcon/awesome-linux-android-hacking)
@@ -134,7 +130,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Secmobi](https://github.com/secmobi/wiki.secmobi.com)
 
 ## Infosec resources
-
 * [OSX-iOS-reverse-engineering](https://github.com/michalmalik/osx-re-101)
 * [Awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 * [Awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation)
@@ -152,14 +147,12 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 
 ## Mobile security standards:
-
 * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 * [OWASP Top 10 - 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 * [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg)
 
 # Credits
-
 * http://carnal0wnage.attackresearch.com/2013/08/want-to-break-some-android-apps.html
 * https://www.owasp.org/index.php
 * https://github.com/ctfs
