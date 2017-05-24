@@ -45,7 +45,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## CTF Writeups
 ### 2016
-
 * [LabyREnth](http://researchcenter.paloaltonetworks.com/2016/09/unit42-labyrenth-capture-the-flag-ctf-mobile-track-solutions/)
 * [0ctf-2016](https://github.com/ctfs/write-ups-2016/tree/master/0ctf-2016/mobile)
 * [Google-ctf-2016](https://github.com/ctfs/write-ups-2016/tree/39e9a0e2adca3a3d0d39a6ae24fa51196282aae4/google-ctf-2016/mobile)
@@ -57,7 +56,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [RC3 CTF 2016: My Lil Droid](http://aukezwaan.nl/write-ups/rc3-ctf-2016-my-lil-droid-100-points/)
 
 ### 2015
-
 * [Rctf-quals-2015](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/rctf-quals-2015/mobile)
 * [Insomni-hack-ctf-2015](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/insomni-hack-ctf-2015/mobile)
 * [0ctf-2015](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/0ctf-2015/mobile)
@@ -74,7 +72,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Icectf-2015: Husavik](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/icectf-2015/forensics/husavik)
 
 ## 2014
-
 * [Qiwi-ctf-2014: not-so-one-time](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
 * [Fdfpico-ctf-2014: droid-app-80](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
 * [Su-ctf-quals-2014: commercial_application](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application)
@@ -89,18 +86,15 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [NDH2k14-wargames: crackme200-ChunkNorris](http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/)
 
 ## 2012
-
 * [Atast CTF 2012 Bin 300](http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
 
 ## Misc
-
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 1](http://blog.w3challs.com/index.php?post/2012/07/02/NDH2k12-wargame-CrackMe-Android)
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2](http://blog.spiderboy.fr/tag/crackme/)
 
 ## Vulnerable Mobile apps:
 
 ### Android
-
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
