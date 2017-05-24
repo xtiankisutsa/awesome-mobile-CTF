@@ -17,6 +17,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Android MIT LL CTF 2013](https://github.com/huyle333/androidmitllctf2013)
 * [InsomniDroid - Description](http://www.strazzere.com/blog/2012/03/488/), [APK File](http://www.strazzere.com/crackmes/insomnidroid.apk)
 * [Evil Planner Bsides Challenge](https://labs.mwrinfosecurity.com/blog/2013/03/11/bsides-challenge/)
+* [Crack-Mes](http://www.droidsec.org/wiki/#crack-mes)
 * [GreHack-2012 - GrehAndroidMe](http://shell-storm.org/repo/CTF/GreHack-2012/reverse_engineering/100-GrehAndroidMe.apk/)
 * [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 1 ](http://www.hackplayers.com/2010/12/reto-android-crackme1.html))
 * [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 2](http://www.hackplayers.com/2011/12/reto-14-android-crackme2.html)
