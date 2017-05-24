@@ -5,6 +5,9 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## Mobile CTF challenges
 
+* [BSides San Francisco CTF 2017 : pinlock-150](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/pinlock-150)
+* [BSides San Francisco CTF 2017 : flag-receiver-200](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/flag-receiver-200)
+* [Insomni'hack Teaser 2017 : mindreader-250](https://github.com/ctfs/write-ups-2017/tree/6a3df5bcece6f952cb60db4a3ae2ce97a189b62d/insomnihack-teaser-2017/mobile/mindreader-250)
 * [Mobile chalenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
 * [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/OMTG-Files/02_Crackmes)
