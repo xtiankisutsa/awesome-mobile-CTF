@@ -156,7 +156,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Linux-reverse-engineering-101](https://github.com/michalmalik/linux-re-101)
 
 
-## Mobile security standards:
+## Mobile security standards
 * [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 * [OWASP Top 10 - 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
