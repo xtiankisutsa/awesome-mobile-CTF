@@ -144,6 +144,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation)
 * [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check)
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome-reversing](https://github.com/fdivrp/awesome-reversing)
 * [Aweasome-Frida](https://github.com/dweinstein/awesome-frida)
 * [Awesome-security](https://github.com/sbilly/awesome-security)
 * [Awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security)
