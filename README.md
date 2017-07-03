@@ -132,6 +132,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Android security awesome](https://github.com/ashishb/android-security-awesome)
 * [Awesome-linux-android-hacking](https://github.com/pfalcon/awesome-linux-android-hacking)
 * [iOS security awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
+* [awesome-iOS-resource](https://github.com/aozhimin/awesome-iOS-resource)
 * [Mobile security wiki](https://mobilesecuritywiki.com/)
 * [iPhone wiki](https://www.theiphonewiki.com/wiki/Main_Page)
 * [Nyxbone](http://www.nyxbone.com/malware/android_tools.html)
