@@ -7,6 +7,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Mobile chalenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
 * [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
+* [Rednaga Challenges](https://github.com/rednaga/training/tree/master/DEFCON23/challenges)
 * [Android Hacking Event 2016: StrangeCalculator](https://team-sik.org/wp-content/uploads/sites/14/2016/06/strangecalculator.apk_.zip)
 * [Android Hacking Event 2016: ReverseMe](https://team-sik.org/wp-content/uploads/sites/14/2016/06/ReverseMe.apk_.zip)
 * [Android Hacking Event 2016: BunchOfNative](https://team-sik.org/wp-content/uploads/sites/14/2016/06/aBunchOfNative.apk_.zip)
