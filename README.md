@@ -4,7 +4,7 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Mobile CTF challenges
-* [Mobile chalenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
+* [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
 * [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
 * [Rednaga Challenges](https://github.com/rednaga/training/tree/master/DEFCON23/challenges)
