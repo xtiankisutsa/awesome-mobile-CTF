@@ -169,6 +169,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Awesome-reversing](https://github.com/fdivrp/awesome-reversing)
 * [Aweasome-Frida](https://github.com/dweinstein/awesome-frida)
 * [Awesome-security](https://github.com/sbilly/awesome-security)
+* [Awesome-fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 * [Awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security)
 * [Android vulnerabilities overview](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview)
 * [OSX-security-awesome](https://github.com/kai5263499/osx-security-awesome)
