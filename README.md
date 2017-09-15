@@ -25,7 +25,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Evil Planner Bsides Challenge](https://labs.mwrinfosecurity.com/blog/2013/03/11/bsides-challenge/)
 * [Crack-Mes](http://www.droidsec.org/wiki/#crack-mes)
 * [GreHack-2012 - GrehAndroidMe](http://shell-storm.org/repo/CTF/GreHack-2012/reverse_engineering/100-GrehAndroidMe.apk/)
-* [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 1 ](http://www.hackplayers.com/2010/12/reto-android-crackme1.html))
+* [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 1 ](http://www.hackplayers.com/2010/12/reto-android-crackme1.html)
 * [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 2](http://www.hackplayers.com/2011/12/reto-14-android-crackme2.html)
 * [Hack.Lu's CTF 2011 Reverse Engineering 300](http://shell-storm.org/repo/CTF/Hacklu-2011/Reversing/Space%20Station%200xB321054A%20(300)/)
 * [Androidcracking.blogspot.com's Crackme’s: cracker 0](http://androidcracking.blogspot.com/2012/01/way-of-android-cracker-0-rewrite.html)
