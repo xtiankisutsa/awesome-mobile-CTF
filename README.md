@@ -157,6 +157,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ## Mobile security resources
 * [Mobile app pentest cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome](https://github.com/ashishb/android-security-awesome)
+* [Android security reference](https://github.com/doridori/Android-Security-Reference)
 * [Awesome-linux-android-hacking](https://github.com/pfalcon/awesome-linux-android-hacking)
 * [iOS security awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
 * [awesome-iOS-resource](https://github.com/aozhimin/awesome-iOS-resource)
