@@ -133,7 +133,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
-* [Owasp Goatdroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [Owasp: Goatdroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 * [ExploitMe labs by SecurityCompass](http://securitycompass.github.io/AndroidLabs/setup.html)
 * [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Sieve (Vulnerable ‘Password Manager’ app)](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
@@ -154,6 +154,72 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
 * [Owasp: iGoat](https://github.com/hankbao/owasp-igoat)
 * [Damn Vulnerable iOS App (DVIA)](http://damnvulnerableiosapp.com/)
+
+## Vulnerable Web apps:
+### Node
+* [Damn Vulnerable NodeJS Application](https://github.com/appsecco/dvna)
+* [OWASP: Juice Shop](https://github.com/bkimminich/juice-shop)
+* [Damn Vulnerable Node Application](https://github.com/isp1r0/DVNA)
+* [Intentionally Vulnerable node.js application](https://github.com/nVisium/node.nV)
+* [Vulnode](https://github.com/dpnishant/vulnode)
+* [OWASP: NodeGoat](https://github.com/OWASP/NodeGoat)
+* [Vulnerable-node](https://github.com/cr0hn/vulnerable-node)
+
+### PHP
+* [OWASP: Broken Web Applications(BWA)](https://github.com/chuckfw/owaspbwa/)
+* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA)
+* [Damn Vulnerable Web Services(DVWS)](https://github.com/snoopysecurity/dvws)
+* [OWASP Hackademic Challenges](https://github.com/Hackademic/hackademic)
+* [OWASP: Insecure Web App Project](https://sourceforge.net/projects/insecurewebapp/files/)
+* [OWASP: WebGoat](https://github.com/OWASP/OWASPWebGoatPHP)
+* [Bwapp](https://sourceforge.net/projects/bwapp/files/bWAPP/)
+* [Beebox](https://sourceforge.net/projects/bwapp/files/bee-box/)
+* [XVWA - Badly coded web application](https://github.com/s4n7h0/xvwa)
+* [Drunk Admin Web Hacking Challenge](http://bechtsoudis.com/archive/2012/04/02/drunk-admin-web-hacking-challenge/index.html)
+* [Peruggia](https://sourceforge.net/projects/peruggia/files/)
+* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
+* [Btalab](https://github.com/CSPF-Founder/btslab/)
+* [OWASP: Bricks](http://sechow.com/bricks/index.html)
+* [The ButterFly Security Project](http://sourceforge.net/projects/thebutterflytmp/files/)
+* [WackoPicko](https://github.com/adamdoupe/WackoPicko)
+* [Vicnum](https://sourceforge.net/projects/vicnum/files/)
+* [GameOver](https://sourceforge.net/projects/null-gameover/)
+* [LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/)
+* [Metasploitable](https://download.vulnhub.com/metasploitable/Metasploitable.zip)
+* [Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/)
+* [Metasploitable 3](https://github.com/rapid7/metasploitable3)
+* [Hackazon](https://github.com/rapid7/hackazon)
+* [Twiterlike](https://github.com/sakti/twitterlike)
+* [UltimateLAMP](https://download.vulnhub.com/ultimatelamp/UltimateLAMP-0.2.zip)
+
+## Sql
+* [SQLI-labs](https://github.com/Audi-1/sqli-labs)
+* [Testenv](https://github.com/sqlmapproject/testenv)
+
+### Python
+* [Google Gruyere](http://google-gruyere.appspot.com)
+
+### Java
+* [Owasp: WebGoat](https://github.com/WebGoat/WebGoat)
+* [Puzzlemall](https://code.google.com/p/puzzlemall/)
+* [Hacme Books](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx)
+* [Bodgeit](https://github.com/psiinon/bodgeit)
+* [OWASP: Web Goat](https://github.com/WebGoat/WebGoat)
+
+### Ruby on Rails
+* [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)
+* [RailsGoat](https://github.com/OWASP/railsgoat)
+
+### C++
+* [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) 
+
+### .NET
+* [OWASP|: WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)
+* [Hacme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx)
+* [VulnApp](https://labs.portcullis.co.uk/tools/vulnapp/)
+
+### ColdFusion
+* [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx)
 
 ## Mobile security resources
 * [Mobile app pentest cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
