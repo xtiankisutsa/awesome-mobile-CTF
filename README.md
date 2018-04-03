@@ -214,7 +214,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) 
 
 ### .NET
-* [OWASP|: WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)
+* [OWASP: WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)
 * [Hacme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx)
 * [VulnApp](https://labs.portcullis.co.uk/tools/vulnapp/)
 
