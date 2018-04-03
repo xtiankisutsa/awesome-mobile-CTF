@@ -178,7 +178,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Drunk Admin Web Hacking Challenge](http://bechtsoudis.com/archive/2012/04/02/drunk-admin-web-hacking-challenge/index.html)
 * [Peruggia](https://sourceforge.net/projects/peruggia/files/)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
-* [Btalab](https://github.com/CSPF-Founder/btslab/)
+* [Btslab](https://github.com/CSPF-Founder/btslab/)
 * [OWASP: Bricks](http://sechow.com/bricks/index.html)
 * [The ButterFly Security Project](http://sourceforge.net/projects/thebutterflytmp/files/)
 * [WackoPicko](https://github.com/adamdoupe/WackoPicko)
