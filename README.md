@@ -149,6 +149,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Appknox](https://github.com/appknox/vulnerable-application)
 * [Vuln app](https://github.com/Lance0312/VulnApp)
 * [Damn Vulnerable FirefoxOS Application](https://github.com/arroway/dvfa)
+* [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [Android security sandbox](https://github.com/rafaeltoledo/android-security)
 
 ### iOS
 * [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
