@@ -155,7 +155,9 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ### iOS
 * [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
 * [Owasp: iGoat](https://github.com/hankbao/owasp-igoat)
-* [Damn Vulnerable iOS App (DVIA)](http://damnvulnerableiosapp.com/)
+* [Damn Vulnerable iOS App (DVIA)](https://github.com/prateek147/DVIA)
+* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
+
 
 ## Vulnerable Web apps:
 ### Node
