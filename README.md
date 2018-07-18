@@ -5,6 +5,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## Mobile CTF challenges
 * [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
+* [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
+* [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
 * Mobile CTF Challenges: [Challenge 1](https://goo.gl/zx4BB6), [Challenge 2](https://goo.gl/2hL6GW), [Challenge 3](https://goo.gl/pBgvF7), [Challenge 4](https://goo.gl/o6MgqU) ZIP password is CTF. 
 * [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
 * [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
