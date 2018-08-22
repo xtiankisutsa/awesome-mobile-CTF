@@ -145,7 +145,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Hacme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
 * [Android Labs](https://github.com/SecurityCompass/AndroidLabs)
 * [Digitalbank](https://github.com/CyberScions/Digitalbank)
-* [Dodo vulnrable bank](https://github.com/CSPF-Founder/DodoVulnerableBank)
+* [Dodo vulnerable bank](https://github.com/CSPF-Founder/DodoVulnerableBank)
 * [Oracle android app](https://github.com/dan7800/VulnerableAndroidAppOracle)
 * [Urdu vulnerable app](http://urdusecurity.blogspot.co.ke/2014/08/Exploiting-debuggable-android-apps.html)
 * [MoshZuk](http://imthezuk.blogspot.co.ke/2011/07/creating-vulnerable-android-application.html?m=1) [File](https://dl.dropboxusercontent.com/u/37776965/Work/MoshZuk.apk)
