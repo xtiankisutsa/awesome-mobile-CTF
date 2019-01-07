@@ -164,6 +164,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ## Vulnerable Web apps:
 ### Node
 * [Damn Vulnerable NodeJS Application](https://github.com/appsecco/dvna)
+* [Damn Vulnerable Serverless Application](https://github.com/OWASP/DVSA)
 * [OWASP: Juice Shop](https://github.com/bkimminich/juice-shop)
 * [Damn Vulnerable Node Application](https://github.com/isp1r0/DVNA)
 * [Intentionally Vulnerable node.js application](https://github.com/nVisium/node.nV)
