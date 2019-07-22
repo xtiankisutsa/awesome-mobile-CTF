@@ -4,6 +4,7 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Mobile CTF challenges
+* [cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
 * [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
 * [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
