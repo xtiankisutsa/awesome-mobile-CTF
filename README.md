@@ -4,7 +4,14 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Mobile CTF challenges
+* [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
+* [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
+* [Android reversing challenges](https://github.com/kiyadesu/android-reversing-challenges)
+* [Android app for IOT CTF](https://github.com/atekippe/SecDSM_April_2019_IOT_CTF_Android_APP)
+* [CyberTruck Challenge 2019 (Detroit USA)](https://github.com/nowsecure/cybertruckchallenge19)
+* [Matryoshka-style Android reversing challenge](https://github.com/o-o-overflow/dc2019q-vitor-public)
 * [Cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
+* [You Shall Not Pass - BSides Canberra 2019](https://gitlab.com/cybears/fall-of-cybeartron/tree/master/challenges/rev/youshallnotpass)
 * [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
 * [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
 * [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
@@ -52,6 +59,15 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Cryptax](https://github.com/cryptax/challenges)
 
 ## CTF Writeups
+### 2019
+* [DroidCon, SEC-T CTF 2019](https://anee.me/droidcon-sec-t-ctf-2019-d796be91bb3f)
+* [You Shall Not Pass - BSides Canberra 2019](https://medium.com/tsscyber/ctf-writeup-you-shall-not-pass-2c7a9254549b)
+* [CyberTruck Challenge 2019 — Android CTF](https://medium.com/bugbountywriteup/cybertruck-challenge-2019-android-ctf-e39c7f796530)
+* [Bsidessf-ctf-2019-mobile-track](https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/)
+
+### 2018
+* [ H1-702 CTF (Capture the Flag)](https://aadityapurani.com/2018/06/25/h1-702-ctf-writeups/#mobile)
+
 ### 2017
 * [BSides San Francisco CTF 2017 : pinlock-150](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/pinlock-150)
 * [BSides San Francisco CTF 2017 : flag-receiver-200](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/flag-receiver-200)
