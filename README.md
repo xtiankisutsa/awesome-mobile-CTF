@@ -64,6 +64,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [You Shall Not Pass - BSides Canberra 2019](https://medium.com/tsscyber/ctf-writeup-you-shall-not-pass-2c7a9254549b)
 * [CyberTruck Challenge 2019 — Android CTF](https://medium.com/bugbountywriteup/cybertruck-challenge-2019-android-ctf-e39c7f796530)
 * [Bsidessf-ctf-2019-mobile-track](https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/)
+* BsidesSF CTF — Challenge: [Part 1](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-1-e849bc917d37), [Part 2](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-2-f8f597be659)
 
 ### 2018
 * [ H1-702 CTF (Capture the Flag)](https://aadityapurani.com/2018/06/25/h1-702-ctf-writeups/#mobile)
