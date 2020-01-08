@@ -13,6 +13,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
 * [You Shall Not Pass - BSides Canberra 2019](https://gitlab.com/cybears/fall-of-cybeartron/tree/master/challenges/rev/youshallnotpass)
 * [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
+* [BSidesSF 2018 CTF](https://github.com/antojoseph/androidCTF)
 * [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
 * [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
 * Mobile CTF Challenges: [Challenge 1](https://goo.gl/zx4BB6), [Challenge 2](https://goo.gl/2hL6GW), [Challenge 3](https://goo.gl/pBgvF7), [Challenge 4](https://goo.gl/o6MgqU) ZIP password is CTF. 
@@ -64,14 +65,26 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [You Shall Not Pass - BSides Canberra 2019](https://medium.com/tsscyber/ctf-writeup-you-shall-not-pass-2c7a9254549b)
 * [CyberTruck Challenge 2019 — Android CTF](https://medium.com/bugbountywriteup/cybertruck-challenge-2019-android-ctf-e39c7f796530)
 * [Bsidessf-ctf-2019-mobile-track](https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/)
-* BsidesSF CTF — Challenge: [Part 1](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-1-e849bc917d37), [Part 2](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-2-f8f597be659)
+* BsidesSF CTF - Challenge: [Part 1](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-1-e849bc917d37), [Part 2](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-2-f8f597be659)
 
 ### 2018
+* [H1 202 2018 / H1 202 CTF](https://corb3nik.github.io/blog/h1-202-2018/h1-202-ctf)
 * [ H1-702 CTF (Capture the Flag)](https://aadityapurani.com/2018/06/25/h1-702-ctf-writeups/#mobile)
+* [BSidesSF 2018 CTF — Android Reversing/Forensic Challenge](https://medium.com/@antojoseph_1995/bsidessf-2018-ctf-android-reversing-forensics-challenge-f5522664b6a2)
+* [Hack the Android4: Walkthrough (CTF Challenge)](https://www.hackingarticles.in/hack-the-android4-walkthrough-ctf-challenge/)
+* [Google CTF Quals 2018](https://w0y.at/writeup/2018/07/02/google-ctf-quals-2018-shall-we-play-a-game.html)
+* [Ilam CTF: Android Reverse WriteUp](https://mstajbakhsh.ir/ilam-ctf-android-reverse-writeup/)
+* 8st SharifCTF Android WriteUps: [Vol I](https://mstajbakhsh.ir/8st-sharifctf-android-writeups-vol/), [Vol II](https://mstajbakhsh.ir/8st-sharifctf-android-writeups-vol-ii/)
+* [ASIS 2018 Finals: Gunshop](https://saarsec.rocks/2018/11/27/Gunshop.html)
+* [H1-202 CTF - Writeup](https://pwning.re/2018/02/23/h1-202-writeup/)
+* [M1Con CTF Write up](https://blog.manchestergreyhats.co.uk/2018/03/28/m1con-ctf-writeup/)
+* [AES decode with Cyberchef](https://blog.manchestergreyhats.co.uk/2018/04/18/aes-decode-with-cyberchef/)
 
 ### 2017
 * [BSides San Francisco CTF 2017 : pinlock-150](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/pinlock-150)
 * [BSides San Francisco CTF 2017 : flag-receiver-200](https://github.com/ctfs/write-ups-2017/tree/10bad9bd24b3f84c761faa4d78e223a3a29b2959/bsidessf-ctf-2017/reversing/flag-receiver-200)
+* [BSidesSF CTF wrap-up](https://blog.skullsecurity.org/2017/bsidessf-ctf-wrap-up)
+* [itsC0rg1's mobile challenge and BSides SF CTF](https://medium.com/@itsc0rg1/my-mobile-challenge-and-bsides-sf-ctf-f9fc4dfca60)
 * [Insomni'hack Teaser 2017 : mindreader-250](https://github.com/ctfs/write-ups-2017/tree/6a3df5bcece6f952cb60db4a3ae2ce97a189b62d/insomnihack-teaser-2017/mobile/mindreader-250)
 * [2017_labyREnth: mob1_ezdroid](https://github.com/gray-panda/grayrepo/tree/1a0c2e033621af9900932252cda31c14a4fbbce8/2017_labyREnth/chal/mob1_ezdroid)
 * [2017_labyREnth: mob2_routerlocker](https://github.com/gray-panda/grayrepo/tree/1a0c2e033621af9900932252cda31c14a4fbbce8/2017_labyREnth/chal/mob2_routerlocker)
