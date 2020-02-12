@@ -168,6 +168,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
 * [Owasp: Goatdroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [InjuredAndroid - CTF](https://github.com/B3nac/InjuredAndroid)
 * [ExploitMe labs by SecurityCompass](http://securitycompass.github.io/AndroidLabs/setup.html)
 * [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Sieve (Vulnerable ‘Password Manager’ app)](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
