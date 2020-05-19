@@ -16,7 +16,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [BSidesSF 2018 CTF](https://github.com/antojoseph/androidCTF)
 * [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
 * [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
-* Mobile CTF Challenges: [Challenge 1](https://goo.gl/zx4BB6), [Challenge 2](https://goo.gl/2hL6GW), [Challenge 3](https://goo.gl/pBgvF7), [Challenge 4](https://goo.gl/o6MgqU) ZIP password is CTF. 
 * [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
 * [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
 * [Rednaga Challenges](https://github.com/rednaga/training/tree/master/DEFCON23/challenges)
@@ -34,7 +33,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [PicoCTF-2014: Pickle Jar - 30](http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Pickle%20Jar%20-%2030/)
 * [PicoCTF-2014: Revenge of the Bleichenbacher](http://shell-storm.org/repo/CTF/PicoCTF-2014/crypto/Revenge%20of%20the%20Bleichenbacher%20-%20170/)
 * [Android MIT LL CTF 2013](https://github.com/huyle333/androidmitllctf2013)
-* [InsomniDroid - Description](http://www.strazzere.com/blog/2012/03/488/), [APK File](http://www.strazzere.com/crackmes/insomnidroid.apk)
 * [Evil Planner Bsides Challenge](https://labs.mwrinfosecurity.com/blog/2013/03/11/bsides-challenge/)
 * [Crack-Mes](http://www.droidsec.org/wiki/#crack-mes)
 * [GreHack-2012 - GrehAndroidMe](http://shell-storm.org/repo/CTF/GreHack-2012/reverse_engineering/100-GrehAndroidMe.apk/)
@@ -111,7 +109,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Holiday hack challenge: Part 5](https://github.com/gray-panda/grayrepo/tree/76925522bb0ce3a9615f0022300d525a958bc260/2016_holidayhackchallenge/05)
 * [0ctf-2016](https://github.com/ctfs/write-ups-2016/tree/master/0ctf-2016/mobile)
 * [Google-ctf-2016](https://github.com/ctfs/write-ups-2016/tree/39e9a0e2adca3a3d0d39a6ae24fa51196282aae4/google-ctf-2016/mobile)
-* [Google-ctf-2016: ill intentions 1](http://security.claudio.pt/solving-google-ctf-2016-android-challenges/)
+* [Google-ctf-2016: ill intentions 1](https://security.claudio.pt/post/googlectf/)
 * [Google-ctf-2016: ill intentions 2](https://github.com/d3rezz/Google-Capture-The-Flag-2016)
 * [Cyber-security-challenge-belgium-2016-qualifiers](https://github.com/ctfs/write-ups-2016/tree/c35549398f88d3755dc31a8fe995f15ef876ee18/cyber-security-challenge-belgium-2016-qualifiers/Mobile%20Security)
 * [Su-ctf-2016 - android-app-100](https://github.com/ctfs/write-ups-2016/tree/274307f43140bb4a52e0729ecf1282628fb22f5b/su-ctf-2016/reverse/android-app-100)
@@ -159,7 +157,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Atast CTF 2012 Bin 300](http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
 
 ## Misc
-* [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 1](http://blog.w3challs.com/index.php?post/2012/07/02/NDH2k12-wargame-CrackMe-Android)
 * [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2](http://blog.spiderboy.fr/tag/crackme/)
 
 ## Vulnerable Mobile apps:
