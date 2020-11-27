@@ -163,6 +163,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ### Android
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
+* [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 * [InjuredAndroid](https://github.com/B3nac/)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
 * [Owasp: Goatdroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
