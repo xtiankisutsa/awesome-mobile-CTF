@@ -161,6 +161,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## Vulnerable Mobile apps:
 ### Android
+* [InsecureShop](https://github.com/optiv/Insecureshop)
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
 * [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
