@@ -205,6 +205,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Vulnode](https://github.com/dpnishant/vulnode)
 * [OWASP: NodeGoat](https://github.com/OWASP/NodeGoat)
 * [Vulnerable-node](https://github.com/cr0hn/vulnerable-node)
+* [Xtreme Vulnerable Web Application (XVWA)](https://github.com/s4n7h0/xvwa)
 
 ### PHP
 * [OWASP: Broken Web Applications(BWA)](https://github.com/chuckfw/owaspbwa/)
