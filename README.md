@@ -4,6 +4,10 @@ This is a curated list of mobile based CTFs, write-ups and vulnerable mobile app
 Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Mobile CTF challenges
+* [Google CTF 2021](https://github.com/google/google-ctf/tree/master/2021/quals/pwn-tridroid)
+* Google CTF 2020 [Writeup 1](https://github.com/google/google-ctf/tree/master/2020/quals/reversing-android), [writeup 2](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
+* [HacktivityCon CTF Mobile 2020](https://github.com/csivitu/CTF-Write-ups/blob/master/HacktivityCon%20CTF/Mobile/Mobile%20One/mobile_one.apk)
+* [Trend Micro CTF 2020](https://github.com/Hong5489/TrendMicroCTF2020/blob/main/mobile2/Keybox.apk)
 * [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
 * [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
 * [Android reversing challenges](https://github.com/kiyadesu/android-reversing-challenges)
@@ -58,12 +62,38 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Cryptax](https://github.com/cryptax/challenges)
 
 ## CTF Writeups
+### 2021
+* H@cktivityCon 2021 CTF Writeup - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
+* [Write-up du CTF Android](https://evabssi.com/write-up-du-ctf-android/)
+* [Cellebrite 2021 CTF – Investigating Heisenberg’s Android Device](https://cellebrite.com/en/part-1-walk-through-of-answers-to-the-2021-ctf-investigating-heisenbergs-android-device/)
+* [Cellebrite 2021 CTF – Marsha’s iPhone (FFS and Backup)](https://cellebrite.com/en/part-3-walk-through-of-answers-to-the-2021-ctf-marshas-iphone-ffs-and-backup/)
+* [Cellebrite 2021 CTF – Beth’s iPhone](https://cellebrite.com/en/part-4-walk-through-of-answers-to-the-2021-ctf-beths-iphone/)
+* [Cellebrite CTF 2021 Writeup](https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708)
+* H@cktivitycon 2021 — Mobile challenge writeup - [writeup 1](https://desterhuizen.medium.com/h-cktivitycon-2021-mobile-challenge-writeup-2e1a8b0bc9d6), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
+* [CTF Write-Up: Kryptonite](https://infosecwriteups.com/ctf-write-up-kryptonite-293f2f66c004)
+* [NahamCon 2021 Writeups](https://github.com/Class-3E/NahamCon2021-Writeups/tree/master/Mobile/Resourceful)
+* [BELKASOFT CTF MAY 2021: WRITE-UP](https://belkasoft.com/belkactf-may2021-writeup)
+
+### 2020
+* [Trend Micro CTF 2020 — Keybox writeup](https://tatocaster.medium.com/trend-micro-ctf-2020-keybox-writeup-cf5a69d2d091)
+* STACK the Flags 2020: Mobile Challenges Write Up [Writeup 1](https://suntanchicken.medium.com/stack-the-flags-2020-mobile-challenges-write-up-493578091e07),[writeup 2](https://github.com/Hong5489/TrendMicroCTF2020/tree/main/mobile2)
+* [HacktivityCon CTF Mobile Writeup](https://www.goggleheadedhacker.com/blog/post/19)
+* [CyberSpaceKenya CTF](https://blog.ikuamike.io/posts/2020/cyberspacectf-zulumeats3/)
+* [Magnet Virtual Summit 2020 CTF (Android)](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-android.html)
+* Magnet Virtual Summit 2020 CTF (iOS) [Writeup 1](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html), [Writeup 2] (https://dfir300.blogspot.com/2020/06/mvs2020ctf-write-up-ios.html)]
+* Google CTF 2020: Android [writeup 1](https://blackbeard666.github.io/pwn_exhibit/content/2020_CTF/GoogleCTF/re_android/android_writeup.html), [Writeup 2](https://github.com/vsnrain/ctf-writeups/blob/master/2020/googlectf/README.md)
+* [RaziCTF 2020 WriteUp: Chasing a lock](https://blog.ikuamike.io/posts/2020/razictf-chasingalock-writeup/)
+* [DFA/CCSC Spring 2020 CTF ](https://www.petermstewart.net/dfa-ccsc-spring-2020-ctf-apple-ios-forensics-with-ileapp/)
+* [AppSecIL CTF)](https://github.com/klassiker/ctf-writeups/blob/master/2020/appsec-il/greatsuccess.md)
+* [SunshineCTF 2020 write-up](https://dev.to/igotinfected/spoofing-an-ios-device-tsa-techie-sunshinectf-2020-write-up-2l0c)
+
 ### 2019
 * [DroidCon, SEC-T CTF 2019](https://anee.me/droidcon-sec-t-ctf-2019-d796be91bb3f)
 * [You Shall Not Pass - BSides Canberra 2019](https://medium.com/tsscyber/ctf-writeup-you-shall-not-pass-2c7a9254549b)
 * [CyberTruck Challenge 2019 — Android CTF](https://medium.com/bugbountywriteup/cybertruck-challenge-2019-android-ctf-e39c7f796530)
 * [Bsidessf-ctf-2019-mobile-track](https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/)
 * BsidesSF CTF - Challenge: [Part 1](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-1-e849bc917d37), [Part 2](https://medium.com/@itsc0rg1/bsidessf-ctf-challenge-write-up-part-2-f8f597be659)
+* [CTF on a Budget - Magnet User Summit 2019 - Mobile](https://www.stark4n6.com/2019/04/ctf-on-budget-magnet-user-summit-2019_9.html)
 
 ### 2018
 * [H1 202 2018 / H1 202 CTF](https://corb3nik.github.io/blog/h1-202-2018/h1-202-ctf)
