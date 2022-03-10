@@ -76,7 +76,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ### 2020
 * [Trend Micro CTF 2020 — Keybox writeup](https://tatocaster.medium.com/trend-micro-ctf-2020-keybox-writeup-cf5a69d2d091)
-* STACK the Flags 2020: Mobile Challenges Write Up [writeup 1](https://suntanchicken.medium.com/stack-the-flags-2020-mobile-challenges-write-up-493578091e07),[writeup 2](https://github.com/Hong5489/TrendMicroCTF2020/tree/main/mobile2)
+* STACK the Flags 2020: Mobile Challenges Write Up [writeup 1](https://suntanchicken.medium.com/stack-the-flags-2020-mobile-challenges-write-up-493578091e07), [writeup 2](https://github.com/Hong5489/TrendMicroCTF2020/tree/main/mobile2)
 * [HacktivityCon CTF Mobile Writeup](https://www.goggleheadedhacker.com/blog/post/19)
 * [CyberSpaceKenya CTF](https://blog.ikuamike.io/posts/2020/cyberspacectf-zulumeats3/)
 * [Magnet Virtual Summit 2020 CTF (Android)](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-android.html)
