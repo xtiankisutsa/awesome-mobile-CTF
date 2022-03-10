@@ -63,7 +63,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## CTF Writeups
 ### 2021
-* H@cktivityCon 2021 CTF writeup - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
+* H@cktivityCon 2021 CTF - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
 * [Write-up du CTF Android](https://evabssi.com/write-up-du-ctf-android/)
 * [Cellebrite 2021 CTF – Investigating Heisenberg’s Android Device](https://cellebrite.com/en/part-1-walk-through-of-answers-to-the-2021-ctf-investigating-heisenbergs-android-device/)
 * [Cellebrite 2021 CTF – Marsha’s iPhone (FFS and Backup)](https://cellebrite.com/en/part-3-walk-through-of-answers-to-the-2021-ctf-marshas-iphone-ffs-and-backup/)
