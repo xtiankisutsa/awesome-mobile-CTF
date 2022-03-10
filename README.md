@@ -5,7 +5,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## Mobile CTF challenges
 * [Google CTF 2021](https://github.com/google/google-ctf/tree/master/2021/quals/pwn-tridroid)
-* Google CTF 2020 [Writeup 1](https://github.com/google/google-ctf/tree/master/2020/quals/reversing-android), [writeup 2](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
+* Google CTF 2020 [writeup 1](https://github.com/google/google-ctf/tree/master/2020/quals/reversing-android), [writeup 2](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
 * [HacktivityCon CTF Mobile 2020](https://github.com/csivitu/CTF-Write-ups/blob/master/HacktivityCon%20CTF/Mobile/Mobile%20One/mobile_one.apk)
 * [Trend Micro CTF 2020](https://github.com/Hong5489/TrendMicroCTF2020/blob/main/mobile2/Keybox.apk)
 * [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
@@ -63,7 +63,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ## CTF Writeups
 ### 2021
-* H@cktivityCon 2021 CTF Writeup - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
+* H@cktivityCon 2021 CTF writeup - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
 * [Write-up du CTF Android](https://evabssi.com/write-up-du-ctf-android/)
 * [Cellebrite 2021 CTF – Investigating Heisenberg’s Android Device](https://cellebrite.com/en/part-1-walk-through-of-answers-to-the-2021-ctf-investigating-heisenbergs-android-device/)
 * [Cellebrite 2021 CTF – Marsha’s iPhone (FFS and Backup)](https://cellebrite.com/en/part-3-walk-through-of-answers-to-the-2021-ctf-marshas-iphone-ffs-and-backup/)
@@ -76,12 +76,12 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 
 ### 2020
 * [Trend Micro CTF 2020 — Keybox writeup](https://tatocaster.medium.com/trend-micro-ctf-2020-keybox-writeup-cf5a69d2d091)
-* STACK the Flags 2020: Mobile Challenges Write Up [Writeup 1](https://suntanchicken.medium.com/stack-the-flags-2020-mobile-challenges-write-up-493578091e07),[writeup 2](https://github.com/Hong5489/TrendMicroCTF2020/tree/main/mobile2)
+* STACK the Flags 2020: Mobile Challenges Write Up [writeup 1](https://suntanchicken.medium.com/stack-the-flags-2020-mobile-challenges-write-up-493578091e07),[writeup 2](https://github.com/Hong5489/TrendMicroCTF2020/tree/main/mobile2)
 * [HacktivityCon CTF Mobile Writeup](https://www.goggleheadedhacker.com/blog/post/19)
 * [CyberSpaceKenya CTF](https://blog.ikuamike.io/posts/2020/cyberspacectf-zulumeats3/)
 * [Magnet Virtual Summit 2020 CTF (Android)](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-android.html)
-* Magnet Virtual Summit 2020 CTF (iOS) [Writeup 1](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html), [Writeup 2] (https://dfir300.blogspot.com/2020/06/mvs2020ctf-write-up-ios.html)]
-* Google CTF 2020: Android [writeup 1](https://blackbeard666.github.io/pwn_exhibit/content/2020_CTF/GoogleCTF/re_android/android_writeup.html), [Writeup 2](https://github.com/vsnrain/ctf-writeups/blob/master/2020/googlectf/README.md)
+* Magnet Virtual Summit 2020 CTF (iOS) [writeup 1](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html), [writeup 2] (https://dfir300.blogspot.com/2020/06/mvs2020ctf-write-up-ios.html)]
+* Google CTF 2020: Android [writeup 1](https://blackbeard666.github.io/pwn_exhibit/content/2020_CTF/GoogleCTF/re_android/android_writeup.html), [writeup 2](https://github.com/vsnrain/ctf-writeups/blob/master/2020/googlectf/README.md)
 * [RaziCTF 2020 WriteUp: Chasing a lock](https://blog.ikuamike.io/posts/2020/razictf-chasingalock-writeup/)
 * [DFA/CCSC Spring 2020 CTF ](https://www.petermstewart.net/dfa-ccsc-spring-2020-ctf-apple-ios-forensics-with-ileapp/)
 * [AppSecIL CTF)](https://github.com/klassiker/ctf-writeups/blob/master/2020/appsec-il/greatsuccess.md)
