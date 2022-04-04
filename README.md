@@ -55,7 +55,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Challenge4ctf](https://github.com/CvvT/challenge_for_ctf)
 * [Ctfpro](https://github.com/jhong01/ctfpro)
 * [CTFDroid](https://github.com/rajasaur/CTFDroid)
-* [Android CTF](https://github.com/fathulkirom22/AndroidCTF)
 * [Android_ctf](https://github.com/artwyman/android_ctf)
 * [Robot CTF Android](https://github.com/KappaEtaKappa/Robot-CTF-android)
 * [Cl.ctfk](https://github.com/CTFK/cl.ctfk)
