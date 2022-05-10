@@ -63,6 +63,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ## CTF Writeups
 ### 2022
 * [NahamCon CTF 2022 Write-up: Click Me! Android challenge](https://infosecwriteups.com/nahamcon-ctf-2022-write-up-click-me-android-challenge-63ccba7cb663)
+* [MRCTF2022-Stuuuuub](https://github.com/LLeavesG/MRCTF2022-Stuuuuub)
 
 ### 2021
 * H@cktivityCon 2021 CTF - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
