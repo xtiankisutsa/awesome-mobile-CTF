@@ -55,7 +55,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Challenge4ctf](https://github.com/CvvT/challenge_for_ctf)
 * [Ctfpro](https://github.com/jhong01/ctfpro)
 * [CTFDroid](https://github.com/rajasaur/CTFDroid)
-* [Android CTF](https://github.com/fathulkirom22/AndroidCTF)
 * [Android_ctf](https://github.com/artwyman/android_ctf)
 * [Robot CTF Android](https://github.com/KappaEtaKappa/Robot-CTF-android)
 * [Cl.ctfk](https://github.com/CTFK/cl.ctfk)
@@ -64,6 +63,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ## CTF Writeups
 ### 2022
 * [NahamCon CTF 2022 Write-up: Click Me! Android challenge](https://infosecwriteups.com/nahamcon-ctf-2022-write-up-click-me-android-challenge-63ccba7cb663)
+* [MRCTF2022-Stuuuuub](https://github.com/LLeavesG/MRCTF2022-Stuuuuub)
 
 ### 2021
 * H@cktivityCon 2021 CTF - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
@@ -199,7 +199,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 * [Damn insecure and vulnerable App (DIVA)](http://payatu.com/damn-insecure-and-vulnerable-app/)
 * [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
-* [InjuredAndroid](https://github.com/B3nac/)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
 * [Owasp: Goatdroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 * [InjuredAndroid](https://github.com/B3nac/InjuredAndroid)
