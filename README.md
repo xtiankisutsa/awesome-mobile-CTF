@@ -226,6 +226,13 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
 
 
+## Vulnerable APIs:
+* [Vapi](https://github.com/roottusk/vapi)
+* [VAmPI](https://github.com/erev0s/VAmPI)
+* [Vulnerable-api](https://github.com/mattvaldes/vulnerable-api)
+* [vAPI](https://github.com/jorritfolmer/vulnerable-api)
+
+
 ## Vulnerable Web apps:
 ### Node
 * [Damn Vulnerable Web Service](https://github.com/snoopysecurity/dvws-node)
